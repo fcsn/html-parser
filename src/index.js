@@ -1,0 +1,3 @@
+exports.parseHTML = () => {
+    return true;
+}
